@@ -18,6 +18,8 @@ This repository hosts the design and implementation of the Bluetooth RN42-I/RM E
 - **Easy Integration**: Supports multiple interfaces including UART, GPIOs which makes it versatile for integration into different projects.
 - **Compact Size**: The module's small footprint (26.92mm x 13.21mm x 2.0mm) makes it suitable for space-constrained applications.
 
+For more detailed information on the RN42 module, including technical specifications and usage guidelines, please refer to the [RN42 Datasheet](RN42_50002328A.pdf) available in this repository.
+
 ## Module Overview
 The RN42-I/RM module is engineered for rapid integration into devices requiring wireless connectivity. It provides a high-speed interface between the device and its intended application, with minimal power consumption and robust connectivity features. The module supports secure and encrypted data transmission, ensuring that your device communicates safely over Bluetooth connections.
 
